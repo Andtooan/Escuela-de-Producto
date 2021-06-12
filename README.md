@@ -107,7 +107,7 @@ Ningún país de Latinoamérica (500 millones de personas PEA) tiene procesos de
 Las últimas 2 opciones harán que cualquier usuario pague cualquier mrebresía sin importar el precio, porqué su retorno está completamente garantizado. El valor de la membresía para la fase 11, se podrá devengar a través de income share agreements con los usuarios. 
 
 
-## Authors
+## Autores
 
 - [@Andtooan ](https://github.com/Andtooan)
 - [@johnometalman](https://www.github.com/johnometalman)
