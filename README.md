@@ -3,7 +3,7 @@
 
 ## Producto Seleccionado.
 
-[Privacy.com](https://www.privacy.comn)
+[Privacy.com](https://www.privacy.com)
 
 
 
