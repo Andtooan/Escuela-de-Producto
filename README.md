@@ -24,7 +24,7 @@ Es una plataforma que permite crear tarjetas de débito virtuales para gestionar
 - Cuenta con aplicaciones móviles tanto para IOS como para Android
 - Cuenta con APIs de Integración para páginas web
 
-##11 Framework
+
 
 
 ## Desventajas Actuales
