@@ -3,7 +3,7 @@
 
 ## Producto Seleccionado.
 
-[Privacy.com](https://www.privacy.com)
+[Privacy.com](https://www.privacy.comn)
 
 
 
@@ -70,6 +70,43 @@ Tengo una ruta de inversiones a largo plazo que dice en que y como invertir para
 
 
   
+## Growth
+
+
+```http
+  1era Estrategia
+```
+
+Llegado el punto de la 6ta estrella, es importante trabajar mantener una estretagia de costo de adquisición de usuarios. Por cada usuario nuevo registrado a través de un código de recomendación obtienes una tarjeta extra por un periodo de 12 meses.
+
+
+
+```http
+  2da Estrategia
+```
+
+Muchas personas no tienen un plan de ahorros y mucho menos con gráfucos de temporalidad, cuando los usuarios analizan como crece su fondo de forma gráfica, se sienten más motivados a ahorrar.
+
+
+
+```http
+  3era Estrategia
+```
+Robinhood acercó el mercado bursátil a los ciudadanos comunes. Haciendo posible la inversión en miles de proyectos en todo el mundo fomentará a que los usuarios se entrenen más y que recomemienden a privacy.com, esto hará que su costo de adquisición baje considerablemente. 
+
+
+```http
+  4ta Estrategia
+```
+Ningún país de Latinoamérica (500 millones de personas PEA) tiene procesos de declaración simples y no burocráticos. Esto hará no solo que la adquisición de clientes sea barata, hará que los usuarios amen el producto. 
+
+
+```http
+  5ta Estrategia
+```
+Las últimas 2 opciones harán que cualquier usuario pague cualquier mrebresía sin importar el precio, porqué su retorno está completamente garantizado. El valor de la membresía para la fase 11, se podrá devengar a través de income share agreements con los usuarios. 
+
+
 ## Authors
 
 - [@Andtooan ](https://github.com/Andtooan)
