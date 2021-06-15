@@ -11,8 +11,7 @@ Elige un producto de tecnología o no-tecnología y crea una estrategia con la c
 8 Estrellas: Me da un reporte IA de como ahorrar mas dinero. //
 9 Estrellas: Automatiza mis pagos futuros y bloquea gastos inecesarios. //
 10 Estrellas: Se comunica automatica con mis bancos si piedo mis tarjetas. //
-11 Estrellas:  Apartir de IA gestiona mis pagos, mis compras y me da un reporte oportuno. //
-
+11 Estrellas:  Apartir de IA gestiona mis pagos, mis compras y me da un reporte oportuno. 
 
   
 ## Social Proff
